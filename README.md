@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 27/12/2024
+## DATE: 19/10/2024
 
 ## AIM:
 
@@ -45,12 +45,10 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-![image](https://github.com/user-attachments/assets/46e199f4-f597-40f2-8034-03f68e1f7c8c)
-![image](https://github.com/user-attachments/assets/a6e04d82-7e93-4e0d-811f-9acc77544e2c)
-
-
 
 ## Output:
+![image](https://github.com/user-attachments/assets/62fa4245-3d1b-4c4c-99eb-a8a73c7181eb)
+![image](https://github.com/user-attachments/assets/65b3b875-b94c-4ac7-8592-df09ab168dde)
 
 
 ### Name: Raga.Susanth
